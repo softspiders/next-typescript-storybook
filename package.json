@@ -1,0 +1,33 @@
+{
+  "name": "next-typescript-storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "storybook": "start-storybook -p 6006 -c .storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/capcross)",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.3",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@storybook/react": "^5.2.6",
+    "@types/next": "^8.0.7",
+    "@types/node": "^12.12.7",
+    "@types/storybook__react": "^4.0.2",
+    "@zeit/next-typescript": "^1.1.1",
+    "babel-loader": "^8.0.6",
+    "babel-preset-react-app": "^9.0.2",
+    "fork-ts-checker-webpack-plugin": "^3.1.0",
+    "typescript": "^3.7.2"
+  }
+}
