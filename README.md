@@ -3,10 +3,16 @@ Minimalistic NextJS in TypeScript with Storybook
 
 ---
 
+## Direct feature ancestors
+
+[Minimalist NextJS project in TypeScript](https://github.com/softspider/next-typescript)
+
+---
+
 ## Running
 
 ```sh
-yarn start-storybook -p 9009 -s public
+npx start-storybook -p 6006 -c .storybook
 ```
 
 ---
