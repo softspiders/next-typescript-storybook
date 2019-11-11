@@ -9,7 +9,23 @@ Minimalistic NextJS in TypeScript with Storybook
 
 ---
 
+## Install
+
+```sh
+npm i
+```
+
+---
+
 ## Running
+
+```sh
+npx next dev
+```
+
+---
+
+## Running Storybook
 
 ```sh
 npx start-storybook -p 6006 -c .storybook
