@@ -1,6 +1,7 @@
 # next-typescript-storybook
 Minimalistic NextJS in TypeScript with Storybook
 
+---
 
 ## Running
 
@@ -8,13 +9,19 @@ Minimalistic NextJS in TypeScript with Storybook
 yarn start-storybook -p 9009 -s public
 ```
 
+---
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
+---
+
 ## Inspired by
 
-[How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919)
+[Manuel Schoebel - Nextjs Typescript Storybook Setup](https://www.manuel-schoebel.com/blog/nextjs-typescript-storybook-setup)
+
+---
 
 ### License
 
