@@ -31,7 +31,7 @@ npm i
 ## Running
 
 ```sh
-npx next dev
+npm run dev
 ```
 
 ---
