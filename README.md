@@ -1,6 +1,14 @@
 # next-typescript-storybook
 Minimalistic NextJS in TypeScript with Storybook
 
+## Feature tags
+
+- next
+- storybook
+- template
+- typescript
+
+
 ---
 
 ## Direct feature ancestors
