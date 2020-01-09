@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # next-typescript-storybook
 Minimalistic NextJS in TypeScript with Storybook
 
@@ -11,22 +13,17 @@ Minimalistic NextJS in TypeScript with Storybook
 
 ---
 
-## Direct feature ancestors
+## Direct ancestors
 
 [Minimalistic NextJS project in TypeScript](https://github.com/softspider/next-typescript)
 
 ---
 
-## Direct feature descendants
+## Direct descendants - also by code
 
 [Minimalistic NextJS in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/next-typescript-storybook-snapshot-test)
 
 ---
-
-## Direct code descendants
-
-[Minimalistic NextJS in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/next-typescript-storybook-snapshot-test)
-
 
 ## Install
 
