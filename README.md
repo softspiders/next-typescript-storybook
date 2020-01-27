@@ -15,13 +15,13 @@ Minimalistic NextJS in TypeScript with Storybook
 
 ## Direct ancestors
 
-[Minimalistic NextJS project in TypeScript](https://github.com/softspider/next-typescript)
+[Minimalistic NextJS project in TypeScript](https://github.com/softspiders/next-typescript)
 
 ---
 
 ## Direct descendants - also by code
 
-[Minimalistic NextJS in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/next-typescript-storybook-snapshot-test)
+[Minimalistic NextJS in TypeScript with Storybook and Snapshot testing](https://github.com/softspiders/next-typescript-storybook-snapshot-test)
 
 ---
 
