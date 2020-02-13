@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # next-typescript-storybook
 Minimalistic NextJS in TypeScript with Storybook
@@ -6,10 +6,10 @@ Minimalistic NextJS in TypeScript with Storybook
 ## Feature tags
 
 - next
+- starter
 - storybook
 - template
 - typescript
-
 
 ---
 
