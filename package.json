@@ -14,13 +14,13 @@
   "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/capcross)",
   "license": "MIT",
   "dependencies": {
-    "next": "^9.3.2",
+    "next": "^13.0.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
-    "@storybook/react": "^5.2.6",
+    "@storybook/react": "^6.5.13",
     "@types/next": "^8.0.7",
     "@types/node": "^12.12.7",
     "@types/storybook__react": "^4.0.2",
